@@ -1,0 +1,5 @@
+0|portugues|port
+1|matematica|mat
+2|biologi|bio
+3|mistisismo|mis
+4|fisica|fis

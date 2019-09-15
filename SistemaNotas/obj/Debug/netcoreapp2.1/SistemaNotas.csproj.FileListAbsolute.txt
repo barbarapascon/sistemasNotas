@@ -1,0 +1,11 @@
+C:\Users\Barbara\source\repos\SistemaNotas\bin\Debug\netcoreapp2.1\SistemaNotas.deps.json
+C:\Users\Barbara\source\repos\SistemaNotas\bin\Debug\netcoreapp2.1\SistemaNotas.runtimeconfig.json
+C:\Users\Barbara\source\repos\SistemaNotas\bin\Debug\netcoreapp2.1\SistemaNotas.runtimeconfig.dev.json
+C:\Users\Barbara\source\repos\SistemaNotas\bin\Debug\netcoreapp2.1\SistemaNotas.dll
+C:\Users\Barbara\source\repos\SistemaNotas\bin\Debug\netcoreapp2.1\SistemaNotas.pdb
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.csprojAssemblyReference.cache
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.AssemblyInfoInputs.cache
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.AssemblyInfo.cs
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.dll
+C:\Users\Barbara\source\repos\SistemaNotas\obj\Debug\netcoreapp2.1\SistemaNotas.pdb
